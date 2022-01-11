@@ -45,7 +45,7 @@ label{
     height: 40px;  
     border: 2px dotted;  
     border-radius: 10px;  
-    /*padding-left: auto; */ 
+    padding-left: auto; 
     color: blue;  
 }
 #signup{
@@ -54,7 +54,7 @@ label{
     height: 40px;   
     border: 2px dotted; 
     border-radius: 10px;  
-    /*padding-right: auto; */ 
+    padding-right: auto; 
     color: blue;
 }  
 span{  
