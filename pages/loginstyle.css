@@ -42,9 +42,9 @@ label{
 #log{  
     float: inline-end;
     width: 200px;  
-    height: 30px;  
+    height: 35px;  
     border: 2px dotted;  
-    border-radius: 10px;  
+    border-radius: 12px;  
     padding-left: auto;  
     color: blue;  
 }
