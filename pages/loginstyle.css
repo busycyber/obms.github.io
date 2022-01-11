@@ -40,21 +40,21 @@ label{
       
 }  
 #log{  
-    float: inline-end;
+    float: left;
     width: 120px;  
     height: 40px;  
     border: 2px dotted;  
     border-radius: 10px;  
-    padding-left: auto;  
+    /*padding-left: auto; */ 
     color: blue;  
 }
 #signup{
     float: inline-end;
     width: 180px; 
-    height: 30px;   
+    height: 40px;   
     border: 2px dotted; 
     border-radius: 10px;  
-    padding-right: auto;  
+    /*padding-right: auto; */ 
     color: blue;
 }  
 span{  
@@ -69,7 +69,7 @@ a{
     border: solid;
     border-radius: 12px;  
     padding-left: 0px;
-    background-color: grey; 
+    background-color: rgb(16, 222, 230); 
 }  
 
 .style1{color:#00d09d;}
