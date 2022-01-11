@@ -36,8 +36,7 @@ label{
     height: 30px;  
     border: none;  
     border-radius: 3px;  
-    padding-left: 8px;  
-      
+    padding-left: 8px;    
 }  
 #log{  
     float: inline-end;
@@ -74,7 +73,6 @@ a{
 }  
 
 .style1{color:#00d09d;}
-
 #top_links
 {
 margin:0 auto;
