@@ -63,7 +63,7 @@ span{
     font-size: 18px;  
 }
 a{  
-    float: right;  
+    float: inline-end;  
     text-align: center;
     width: 120px; 
     border: solid;
