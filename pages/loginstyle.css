@@ -42,19 +42,19 @@ label{
 #log{  
     float: inline-end;
     width: 120px;  
-    height: 40px;  
+    height: 30px;  
     border: 2px dotted;  
     border-radius: 10px;  
-    padding-left: 0px; 
+    padding-left: auto;  
     color: blue;  
 }
 #signup{
     float: inline-start;
     width: 180px; 
-    height: 40px;   
+    height: 30px;   
     border: 2px dotted; 
     border-radius: 10px;  
-    padding-right: 0px; 
+    padding-right: auto;  
     color: blue;
 }  
 span{  
