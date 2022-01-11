@@ -41,7 +41,7 @@ label{
 }  
 #log{  
     float: inline-end;
-    width: 180px;  
+    width: auto;  
     height: 30px;  
     border: 2px dotted;  
     border-radius: 10px;  
